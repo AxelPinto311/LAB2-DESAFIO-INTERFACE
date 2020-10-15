@@ -1,0 +1,7 @@
+C:\Users\megatecnologia\Documents\Proyectos Visual Studio C\DESAFIO INTERFACE EJ1\DESAFIO INTERFACE EJ1\bin\Debug\DESAFIO INTERFACE EJ1.exe.config
+C:\Users\megatecnologia\Documents\Proyectos Visual Studio C\DESAFIO INTERFACE EJ1\DESAFIO INTERFACE EJ1\bin\Debug\DESAFIO INTERFACE EJ1.exe
+C:\Users\megatecnologia\Documents\Proyectos Visual Studio C\DESAFIO INTERFACE EJ1\DESAFIO INTERFACE EJ1\bin\Debug\DESAFIO INTERFACE EJ1.pdb
+C:\Users\megatecnologia\Documents\Proyectos Visual Studio C\DESAFIO INTERFACE EJ1\DESAFIO INTERFACE EJ1\obj\Debug\DESAFIO INTERFACE EJ1.csprojAssemblyReference.cache
+C:\Users\megatecnologia\Documents\Proyectos Visual Studio C\DESAFIO INTERFACE EJ1\DESAFIO INTERFACE EJ1\obj\Debug\DESAFIO INTERFACE EJ1.csproj.CoreCompileInputs.cache
+C:\Users\megatecnologia\Documents\Proyectos Visual Studio C\DESAFIO INTERFACE EJ1\DESAFIO INTERFACE EJ1\obj\Debug\DESAFIO INTERFACE EJ1.exe
+C:\Users\megatecnologia\Documents\Proyectos Visual Studio C\DESAFIO INTERFACE EJ1\DESAFIO INTERFACE EJ1\obj\Debug\DESAFIO INTERFACE EJ1.pdb

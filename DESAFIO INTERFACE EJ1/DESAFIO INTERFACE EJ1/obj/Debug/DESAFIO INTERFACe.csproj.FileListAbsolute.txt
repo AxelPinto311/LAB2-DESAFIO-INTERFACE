@@ -1,0 +1,7 @@
+C:\Users\megatecnologia\AppData\Local\Temporary Projects\DESAFIO INTERFACe\bin\Debug\DESAFIO INTERFACe.exe.config
+C:\Users\megatecnologia\AppData\Local\Temporary Projects\DESAFIO INTERFACe\bin\Debug\DESAFIO INTERFACe.exe
+C:\Users\megatecnologia\AppData\Local\Temporary Projects\DESAFIO INTERFACe\bin\Debug\DESAFIO INTERFACe.pdb
+C:\Users\megatecnologia\AppData\Local\Temporary Projects\DESAFIO INTERFACe\obj\Debug\DESAFIO INTERFACe.csprojAssemblyReference.cache
+C:\Users\megatecnologia\AppData\Local\Temporary Projects\DESAFIO INTERFACe\obj\Debug\DESAFIO INTERFACe.csproj.CoreCompileInputs.cache
+C:\Users\megatecnologia\AppData\Local\Temporary Projects\DESAFIO INTERFACe\obj\Debug\DESAFIO INTERFACe.exe
+C:\Users\megatecnologia\AppData\Local\Temporary Projects\DESAFIO INTERFACe\obj\Debug\DESAFIO INTERFACe.pdb
